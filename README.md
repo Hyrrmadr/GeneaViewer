@@ -10,3 +10,7 @@ The program takes a single argument: the .genea file to view.
 # Display
 
 Currently, the only output of the project is a single .png file called *output.png* (generated in the current folder).
+
+# Author
+
+Created by [Louis Brunner](https://github.com/Hyrrmadr).
